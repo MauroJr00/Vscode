@@ -1,2 +1,2 @@
 # vscode
-# foi criado arquivo banco.cpp
+ foi criado arquivo banco.cpp
