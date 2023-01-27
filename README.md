@@ -1,2 +1,2 @@
 # vscode
- foi criado arquivo banco.cpp
+ Teste da aula de C++ orientada a objetos da Alura.
